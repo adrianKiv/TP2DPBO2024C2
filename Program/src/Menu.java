@@ -1,5 +1,5 @@
 /*
-    Saya Adrian Mulianto NIM [2200939] mengerjakan soal Latihan Praktikum-5 dalam mata kuliah DPBO
+    Saya Adrian Mulianto NIM [2200939] mengerjakan soal Tugas Praktikum-2 dalam mata kuliah DPBO
     untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 */
 
