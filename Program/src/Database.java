@@ -1,3 +1,8 @@
+/*
+    Saya Adrian Mulianto NIM [2200939] mengerjakan soal Tugas Praktikum-2 dalam mata kuliah DPBO
+    untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+*/
+
 import java.sql.*;
 
 public class Database {
